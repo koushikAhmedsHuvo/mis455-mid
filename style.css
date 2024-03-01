@@ -45,6 +45,9 @@ nav {
   cursor: pointer;
   padding: 10px;
 }
+.navItem a:hover {
+  color: blue;
+}
 
 .navBottom {
   display: flex;
